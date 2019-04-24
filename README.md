@@ -1,6 +1,6 @@
 # Info
 
-Created by the talented [Michenrisken](https://github.com/michenriksen). Ported to ARM64 by [0x0luke](https://github.com/0x0luke
+Created by the talented [Michenrisken](https://github.com/michenriksen). Ported to ARM64 by [0x0luke](https://github.com/0x0luke)
 
 [Original Github](https://github.com/michenriksen/aquatone)
  
